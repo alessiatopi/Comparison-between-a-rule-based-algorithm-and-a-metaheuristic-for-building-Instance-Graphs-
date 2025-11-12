@@ -13,4 +13,6 @@ The metaheuristic, inspired by Simulated Annealing, iteratively explores alterna
 
 -Probabilistic Acceptance – allowing worse solutions early to escape local minima.
 
-My contribution focused on parameter tuning, correcting code inconsistencies and the development of the tabella.py, res_combination_seeds.py, res_sim_all.py, res_visualize_trace_metrics.py scripts for automated evaluation and comparison of both algorithms. The goal was to identify when the metaheuristic outperforms BIG, given its higher computational cost.
+My contribution focused on parameter tuning, correcting code inconsistencies and the development of the tabella.py, res_combination_seeds.py, res_sim_all.py, res_visualize_trace_metrics.py scripts for automated evaluation and comparison of both algorithms. 
+
+The goal was to identify when the metaheuristic outperforms BIG, given its higher computational cost.
